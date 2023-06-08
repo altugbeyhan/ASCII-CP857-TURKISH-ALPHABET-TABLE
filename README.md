@@ -13,4 +13,4 @@ ASCII, Bilgi Değişimi için Amerikan Standart Kodlama Sistemi (American Standa
 Not: Code Page 857 tablosunda onluk tabanda 32’ye “boşluk”, 240’a “yumuşak tire” ve 255’e “bölünemez boşluk” karakterleri karşılık gelmiştir. Ayrıca onluk tabanda 213, 231 ve 242’ye karşılık karakter atamalarıyapılmamıştır.<br><br>
 <i>Tablonun HTML ve PDF sürümlerine bu GitHub deposundan erişebilirsiniz.</i>
 
-<img width="1043" alt="image" src="https://github.com/altugbeyhan/ASCII-CP857-TURKISH-ALPHABET-TABLE/assets/54203533/c1b444fe-d1c8-43dc-b204-40f64fa93992">
+![ASCII-CODE PAGE 857 TÜRKÇE ALFABE TABLOSU (1)_page-0001](https://github.com/altugbeyhan/ASCII-CP857-TURKISH-ALPHABET-TABLE/assets/54203533/04696438-7a02-4a82-8a83-3a67e0be5793)
